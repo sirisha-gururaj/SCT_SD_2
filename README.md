@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Number Guessing Game 🎯
 
 A fun and interactive number guessing game where the player tries to guess a secret number between 1 and 100.
 
@@ -53,7 +53,7 @@ npm install
 4. Start the development server:
 npm start
 
-5.Open the app in the browser at:
+5. Open the app in the browser at:
 http://localhost:3000
 
 ---
